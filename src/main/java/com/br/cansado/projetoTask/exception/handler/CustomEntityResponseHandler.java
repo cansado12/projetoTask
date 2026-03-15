@@ -1,4 +1,4 @@
-package com.br.cansado.projetoTask.exception.hander;
+package com.br.cansado.projetoTask.exception.handler;
 
 
 import com.br.cansado.projetoTask.exception.ExceptionResponse;
